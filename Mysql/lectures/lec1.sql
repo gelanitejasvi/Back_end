@@ -26,3 +26,6 @@
 => describe or show perticular table (row and column)
 -- desc user;
 -- describe user;
+
+=> delete database
+-- drop database <databasename>;
