@@ -15,7 +15,7 @@
 -- show tables;
 
 => create new table
--- create table user(
+-- create table table_name(
 --  firstname varchar(30),
 --  lastname varchar(30),
 --  email varchar(50),
@@ -24,8 +24,8 @@
 --);
 
 => describe or show perticular table (row and column)
--- desc user;
--- describe user;
+-- desc table_name;
+-- describe table_name;
 
 => delete database
 -- drop database <databasename>;

@@ -10,7 +10,7 @@ use Product_Master;
 
 show tables;
 
-    create table product(productNo varchar(6), Description varchar(15), profitPercent int(4) , UnitMeasure varchar(10), QtyOnHand int(8), ReorderLvl int(8), SellPrice int(8) ,  CostPrice int(8));
+create table product(productNo varchar(6), Description varchar(15), profitPercent int(4) , UnitMeasure varchar(10), QtyOnHand int(8), ReorderLvl int(8), SellPrice int(8) ,  CostPrice int(8));
 
 desc product;
 
